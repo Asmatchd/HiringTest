@@ -111,7 +111,7 @@ export class DoctorHistory extends Component {
                     }}
                     >
                         <Image
-                        source={require('../../assets/sir.jpg')}
+                        source={require('../../assets/sir.png')}
                         style={{
                             height:h('18%'),
                             width:w('30%'),
